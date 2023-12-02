@@ -3,6 +3,7 @@
 Al-Qur'an Mobile adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam membaca, menjelajahi, dan memahami Al-Qur'an di perangkat seluler mereka. Dengan antarmuka yang bersih dan intuitif, aplikasi ini menyediakan berbagai fitur yang membuat pengalaman membaca Al-Qur'an menjadi lebih baik.
 
 Aplikasi Al-Qur'an Memiliki beberapa fitur seperti :
+1. Menyediakan bacaan surah dari juz 1-30 beserta terjemahannya
 1. Bisa memunculkan suara pada semua surah yang tersedia
 2. Bisa melihat jadwal sholat pada setiap daerah
 
