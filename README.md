@@ -12,3 +12,5 @@ Aplikasi ini dibuat untuk memenuhi project akhir Mata Kuliah Pemrograman Mobile 
 - Syarla Nova Rahmadani (22050974104)
 - Riski Surya Permana (220509724118)
 - Ahmad Marwan Taufiq (22050974120)
+
+https://pendidikan-ti.ft.unesa.ac.id/
