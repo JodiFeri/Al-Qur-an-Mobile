@@ -1,3 +1,5 @@
+![IMG_20231204_114117_769](https://github.com/JodiFeri/Al-Qur-an-Mobile/assets/152642411/f9fc48b7-b258-4d70-b8dc-b428cc426857)
+
 # Al-Qur-an-Mobile
 
 Al-Qur'an Mobile adalah aplikasi mobile yang dirancang untuk memudahkan pengguna dalam membaca, menjelajahi, dan memahami Al-Qur'an di perangkat seluler mereka. Dengan antarmuka yang bersih dan intuitif, aplikasi ini menyediakan berbagai fitur yang membuat pengalaman membaca Al-Qur'an menjadi lebih baik.
